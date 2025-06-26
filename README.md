@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sojal1001/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sojal1001/Leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Sojal1001/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sojal1001/Leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Sojal1001/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sojal1001/Leetcode/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Sojal1001/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
