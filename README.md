@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sojal1001/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sojal1001/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Sojal1001/Leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Sojal1001/Leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sojal1001/Leetcode/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sojal1001/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
