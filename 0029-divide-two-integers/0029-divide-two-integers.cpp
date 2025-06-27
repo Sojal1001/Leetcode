@@ -10,7 +10,7 @@ public:
         else if(dividend == INT_MIN && divisor == 1){
             return INT_MIN;
         }
-        if(INT_MIN <= dividend && divisor <= INT_MAX){
+        else if(INT_MIN <= dividend && divisor <= INT_MAX){
             return dividend/divisor;
         }
         else{
