@@ -7,9 +7,6 @@ public:
                     x=i+1;
                     continue;
                 }
-                else if(i==nums.size()-1 && nums[i]!=target){
-                    x=i;
-                }
                 else{
                     x=i;
                     break;
