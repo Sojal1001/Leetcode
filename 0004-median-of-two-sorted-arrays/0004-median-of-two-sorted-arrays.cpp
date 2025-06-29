@@ -26,12 +26,11 @@ public:
             j++;
             k++;
         }
-        int x = m+n;
-        if(x%2==0){
-            return (arr[(x/2)]+arr[(x/2)-1])/2.0;
+        if((m+n)%2==0){
+            return (arr[((m+n)/2)]+arr[((m+n)/2)-1])/2.0;
         }
         else{
-            return arr[(x/2)];
+            return arr[((m+n)/2)];
         }
     }
 };
