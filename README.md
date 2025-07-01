@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Sojal1001/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Sojal1001/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Sojal1001/Leetcode/tree/master/0069-sqrtx) |
+| [1013-fibonacci-number](https://github.com/Sojal1001/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sojal1001/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Sojal1001/Leetcode/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/Sojal1001/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sojal1001/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sojal1001/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sojal1001/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
