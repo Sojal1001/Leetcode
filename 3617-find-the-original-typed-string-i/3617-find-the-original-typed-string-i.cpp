@@ -6,11 +6,8 @@ public:
         while(i<word.length()){
             if(word[i]==word[i+1]){
                 count++;
-                i++;
             }
-            else{
-                i++;
-            }
+            i++;
         }
     return count;}
 };
