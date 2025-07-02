@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sojal1001/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Sojal1001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sojal1001/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3321-type-of-triangle](https://github.com/Sojal1001/Leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Sojal1001/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Sojal1001/Leetcode/tree/master/1086-divisor-game) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sojal1001/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3321-type-of-triangle](https://github.com/Sojal1001/Leetcode/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sojal1001/Leetcode/tree/master/0088-merge-sorted-array) |
+| [3321-type-of-triangle](https://github.com/Sojal1001/Leetcode/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
