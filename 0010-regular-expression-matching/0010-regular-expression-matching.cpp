@@ -1,22 +1,34 @@
 class Solution {
 public:
-    unordered_map<string, bool> memo;
-
     bool isMatch(string s, string p) {
-        string key = s + "|" + p;  // Unique key for memo
+        int m = s.size(), n = p.size();
+        vector<vector<bool>> dp(m + 1, vector<bool>(n + 1, false));
 
-        if (memo.count(key)) return memo[key];
+        dp[0][0] = true;  // Empty pattern matches empty string
 
-        if (p.empty()) return memo[key] = s.empty();
-
-        bool first_match = (!s.empty() && (s[0] == p[0] || p[0] == '.'));
-
-        if (p.length() >= 2 && p[1] == '*') {
-            memo[key] = isMatch(s, p.substr(2)) || (first_match && isMatch(s.substr(1), p));
-        } else {
-            memo[key] = first_match && isMatch(s.substr(1), p.substr(1));
+        // Handle patterns like a*, a*b*, a*b*c* that can match empty string
+        for (int j = 2; j <= n; j += 2) {
+            if (p[j - 1] == '*') {
+                dp[0][j] = dp[0][j - 2];
+            }
         }
 
-        return memo[key];
+        for (int i = 1; i <= m; i++) {
+            for (int j = 1; j <= n; j++) {
+                if (p[j - 1] == '.' || p[j - 1] == s[i - 1]) {
+                    dp[i][j] = dp[i - 1][j - 1];
+                }
+                else if (p[j - 1] == '*') {
+                    // Zero occurrence of the character before '*'
+                    dp[i][j] = dp[i][j - 2];
+                    // One or more occurrence
+                    if (p[j - 2] == '.' || p[j - 2] == s[i - 1]) {
+                        dp[i][j] = dp[i][j] || dp[i - 1][j];
+                    }
+                }
+            }
+        }
+
+        return dp[m][n];
     }
 };
