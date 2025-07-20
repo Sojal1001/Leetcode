@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sojal1001/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Sojal1001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sojal1001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Sojal1001/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sojal1001/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3321-type-of-triangle](https://github.com/Sojal1001/Leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sojal1001/Leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Sojal1001/Leetcode/tree/master/0136-single-number) |
 ## Stack
 |  |
 | ------- |
